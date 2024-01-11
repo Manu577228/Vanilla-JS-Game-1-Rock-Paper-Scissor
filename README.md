@@ -32,7 +32,7 @@ If you encounter any issues or have questions, feel free to open an issue. I'll 
 
 ## Connect with Me
 
-- [LinkedIn][your-linkedin-profile](https://www.linkedin.com/in/manu-bharadwaj-3507a345/)
+- [LinkedIn](https://www.linkedin.com/in/manu-bharadwaj-3507a345/)
 
 Let's connect and share our thoughts!
 
