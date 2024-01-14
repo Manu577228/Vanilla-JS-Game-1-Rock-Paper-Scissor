@@ -38,6 +38,35 @@ Let's connect and share our thoughts!
 
 ---
 
+### 🎨 Selectors Power:
+- `.getElementById()` 🆔
+- `.getElementsByClassName()` 👓
+
+### 🔍 Length & Checkpoints:
+- `.length` 📏
+- `includes()` 🔍
+
+### 🎭 ClassList Control:
+- `.classList.add()` ➕
+- `.classList.remove()` ➖
+- `.classList.contains()` ❓
+
+### 🚨 Time Management:
+- `clearInterval()` 🕰️
+- `setInterval()` 🔁
+- `setTimeout()` ⏰
+
+### 📝 HTML Content:
+- `.innerHTML` 📜
+
+### 🔄 Switch Logic:
+- `switch()` 🔄
+
+### ⌨️ Keyboard Events:
+- `e.key` ⌨️
+
+Dive into JS game dev essentials! 🚀✨
+
 **If you find this project helpful, please consider giving it a ⭐️!**
 
 Thank you for stopping by! 🌟
