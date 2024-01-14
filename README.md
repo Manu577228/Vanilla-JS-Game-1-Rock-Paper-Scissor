@@ -38,6 +38,17 @@ Let's connect and share our thoughts!
 
 ---
 
+## 🎮 What we learnt by building this game 🧰
+
+### 🕹️ DOM Manipulation:
+- `.querySelector()` 🔍
+- `.createElement()` 🌟
+- `.appendChild()` 📥
+
+### 🧩 Array Mastery:
+- `Array.from()` 🎭
+- `.querySelectorAll()` 🌐
+
 ### 🎨 Selectors Power:
 - `.getElementById()` 🆔
 - `.getElementsByClassName()` 👓
