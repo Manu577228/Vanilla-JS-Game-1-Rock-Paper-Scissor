@@ -6,7 +6,7 @@ Hey there! 👋 I'm Manu Bharadwaj BN, and this is my repository where I showcas
 
 I'm Manu Bharadwaj, a passionateSoftware Enginner. This project is a result of my dedication to Javascript.
 
-- 📦 HTML, CSS, JAVASCRIPT.
+- 📦 HTML, CSS, JAVASCRIPT.!
 
 ## Getting Started
 
